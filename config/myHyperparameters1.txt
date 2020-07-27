@@ -1,0 +1,2 @@
+--dir DataExample --data data --epoches 100 --maxiter 100 --lamb 0.1 --seed 1 --k 3 --NQ 10 --alpha 0.5 --inputdir DataExample/TagMeResults/home_and_kitchen.txt --category home
+--dir DataExample --data data --epoches 100 --maxiter 100 --lamb 0.1 --seed 5 --k 3 --NQ 10 --alpha 0.5 --inputdir DataExample/TagMeResults/pet_supplies.txt --category pet
